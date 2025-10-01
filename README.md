@@ -12,7 +12,7 @@
   <img src="./assets/icons/zustand.svg" width="30" height="30" title="Zustand"/>
   <img src="./assets/icons/vite.svg" width="29" height="29" title="Vite"/>
   <img src="./assets/icons/vitest.svg" width="28" height="28" title="Vitest"/>
-  <img src="./assets/icons/jest.svg" width="27" height="27" title="Jest"/> 
+  <img src="./assets/icons/Jest.svg" width="27" height="27" title="Jest"/> 
   <img src="./assets/icons/eslint.svg" width="26" height="26" title="ESLint"/>
   <img src="./assets/icons/prettier.svg" width="25" height="25" title="Prettier"/>
   <img src="./assets/icons/mui.svg" width="24" height="24" title="MUI"/>
