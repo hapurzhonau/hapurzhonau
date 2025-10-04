@@ -9,8 +9,7 @@
 🎯 Goal: become a strong Frontend Engineer and contribute to meaningful projects
 
 ---
-
-📫 Reach me at:</br>
+## Contacts 📫
 
   <a href="https://t.me/daniyar13"><img src="./assets/icons/telegram.svg" width="26" height="26" title="Telegram"/>  daniyar13</a>
 
@@ -20,7 +19,7 @@
 
 ---
 
-### My Tech Stack⚡
+## My Tech Stack⚡
 
 <p>
   <img src="./assets/icons/react.svg" width="38" height="38" title="React"/>
@@ -54,3 +53,9 @@
 
 ### 👥 Team Collaboration
 [**RIP Project**](https://github.com/AleksGoodOmens/RIP) - Collaborative team project demonstrating group development skills
+
+---
+
+## 🥋 Codewars Stats
+
+[![Codewars](https://www.codewars.com/users/hapurzhonau/badges/large)](https://www.codewars.com/users/hapurzhonau)
