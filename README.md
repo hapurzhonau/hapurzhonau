@@ -1,6 +1,28 @@
-### Tech Stack⚡
+<h1>Hi👋, I'm <strong style="color: #2E86AB">Daniyar</strong> — a beginner Frontend Developer </h1>
 
-<p align="left">
+<p>
+  Passionate about building interactive web applications and constantly learning modern frontend technologies.
+</p>
+
+🌱 Currently exploring `React`, `TypeScript` and `Next.js`
+
+🎯 Goal: become a strong Frontend Engineer and contribute to meaningful projects
+
+---
+
+📫 Reach me at:</br>
+
+  <a href="https://t.me/daniyar13"><img src="./assets/icons/telegram.svg" width="26" height="26" title="Telegram"/>  daniyar13</a>
+
+  <a href="mailto:hapurzhonau@gmail.com"><img src="./assets/icons/gmail.svg" width="20" height="20" title="Mail"/>  hapurzhonau@gmail.com</a>
+
+  <a href="https://www.linkedin.com/in/daniyar-hapurzhonau-0bb541271/"><img src="./assets/icons/linkedin.svg" width="20" height="20" title="LinkedIn"/> Daniyar</a>
+
+---
+
+### My Tech Stack⚡
+
+<p>
   <img src="./assets/icons/react.svg" width="38" height="38" title="React"/>
   <img src="./assets/icons/typescript.svg" width="37" height="37" title="TypeScript"/>
   <img src="./assets/icons/javascript.svg" width="36" height="36" title="JavaScript"/>
@@ -22,3 +44,13 @@
   <img src="./assets/icons/shadcn.svg" width="20" height="20" title="Shadcn/UI"/>
   <img src="./assets/icons/husky.svg" width="19" height="19" title="Husky"/>
 </p>
+
+---
+
+## 🚀 My Projects
+
+### 👨‍💻 Personal Development
+[**RS React**](https://github.com/hapurzhonau/rs-react/pulls) - Latest personal project with active pull requests and React development
+
+### 👥 Team Collaboration
+[**RIP Project**](https://github.com/AleksGoodOmens/RIP) - Collaborative team project demonstrating group development skills
