@@ -44,6 +44,28 @@
       </p>
     </td>
   </tr>
+    <tr><td height="30"></td></tr>
+  <tr>
+    <td>
+      <h2>Certificates 📜</h2>
+      <table>
+        <tr>
+          <td align="center" width="300">
+            <a href="https://app.rs.school/certificate/cygpfc0d">
+              <img src="./assets/icons/react-certificate.jpg" width="40%" alt="React certificate"/>
+            </a><br>
+            <strong>React Course</strong><br>
+          </td>
+          <td align="center" width="300">
+            <a href="https://app.rs.school/certificate/re4nkm3r">
+              <img src="./assets/icons/js-certificate.jpg" width="40%" alt="JavaScript certificate"/>
+            </a><br>
+            <strong>JavaScript/Frontend Course</strong><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
   <tr><td height="30"></td></tr>
   <tr>
     <td>
