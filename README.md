@@ -1,15 +1,13 @@
-<table>
-    <tr>
-    <td>
   <h1>Hi👋, I'm <strong style="color: #2E86AB">Daniyar</strong> — a beginner Frontend Developer</h1>
 <p>
   Passionate about building interactive web applications and constantly learning modern frontend technologies.
 </p>
+
 🌱 Currently exploring `React`, `TypeScript` and `Next.js`</br>
-🎯 Goal: become a strong Frontend Engineer and contribute to meaningful projects
-    </td>
-  </tr>
-  <tr><td height="30"></td></tr>
+🎯 Goal: become a strong Frontend Engineer and contribute to meaningful projects</br>
+</br>
+
+  <table>
   <tr>
     <td>
       <h2>Contacts 📫</h2>
