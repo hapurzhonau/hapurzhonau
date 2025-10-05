@@ -48,7 +48,7 @@
   <tr>
     <td>
       <h2>Certificates 📜</h2>
-      <table>
+      <table  align="center">
         <tr>
           <td align="center" width="300">
             <a href="https://app.rs.school/certificate/cygpfc0d">
